@@ -16,6 +16,13 @@ Course 2: https://towardsdatascience.com/key-learning-points-from-mlops-speciali
 Course 3: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-3-9e67558212ee  
 Course 4: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b
 
+# Helping Articles
+
+## Lec 09
+### Balancing Accuracy and Importance: Why Low Average Test Error Is not Good Enough
+- https://medium.com/@oviemunooboro/balancing-accuracy-and-importance-why-low-average-test-error-is-not-good-enough-947e06253e6c
+
+
 ___
 ### Status
 Course 1: Notes completed ✅   
