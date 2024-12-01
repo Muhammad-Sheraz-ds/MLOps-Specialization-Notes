@@ -22,6 +22,8 @@ Course 4: https://towardsdatascience.com/key-learning-points-from-mlops-speciali
 ### Balancing Accuracy and Importance: Why Low Average Test Error Is not Good Enough
 - https://medium.com/@oviemunooboro/balancing-accuracy-and-importance-why-low-average-test-error-is-not-good-enough-947e06253e6c
 
+### Error Analysis and Performance Auditing
+- https://medium.com/@afkhoso/error-analysis-and-performance-auditing-skewed-datasets-68234d8be030
 
 ___
 ### Status
